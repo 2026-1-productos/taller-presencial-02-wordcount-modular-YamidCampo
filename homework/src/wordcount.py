@@ -6,7 +6,6 @@ from ._internals.read_all_lines import read_all_lines
 from ._internals.split_into_words import split_into_words
 from ._internals.write_word_counts import write_word_counts
 
-
 def main():
     """Main function to orchestrate the word count process."""
 
